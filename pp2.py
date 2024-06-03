@@ -21,7 +21,7 @@ written in
 more than just one line"""
 
 
-#PYTNON VARIABLES
+#PYTHON VARIABLES
 
 '''Create a variable named carname and assign the value Volvo to it.'''
 carname = "Volvo"
